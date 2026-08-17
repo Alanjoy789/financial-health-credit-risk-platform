@@ -1,0 +1,12 @@
+{
+  "run_timestamp_utc": "2026-08-16T07:01:46.723357Z",
+  "seed": 20260816,
+  "raw_customer_rows": 1001,
+  "valid_customers": 1000,
+  "raw_transaction_rows": 60001,
+  "clean_transaction_rows": 60000,
+  "duplicate_transactions_removed": 1,
+  "missing_categories_imputed": 1,
+  "reconciliation_failures": 0,
+  "top_5pct_customers": 50
+}
